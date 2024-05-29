@@ -37,14 +37,27 @@ Download the free, multi-OS [DB Browser for SQLite](https://sqlitebrowser.org/) 
 ![SQLite3 database file sample](./SQLite3_Database_File_Sanofi_Applications.png)
 
 
-[Abbott](./TrialTwin_Abbott.sqlite3.zip)
-[Abbvie](./TrialTwin_Abbvie.sqlite3.zip)
+| Sponsor     | Download SQLIte file                     |  
+| :---------- | :--------------------------------------- |
+| Abbott      | [04 MB](./TrialTwin_Abbott.sqlite3.zip)  |
+| Abbvie      | [08.2 MB](./TrialTwin_Abbvie.sqlite3.zip)
+
+**Table 1:** SQLite3 files
+
+
+
 [AstraZeneca](./TrialTwin_AstraZeneca.sqlite3.zip)
+
 [Bayer](./TrialTwin_Bayer.sqlite3.zip)
+
 [Bristol_Myers_Squibb](./TrialTwin_Bristol_Myers_Squibb.sqlite3.zip)
+
 [Johnson & Johnson](./TrialTwin_Johnson_Johnson.sqlite3.zip)
+
 [Pfizer](./TrialTwin_Pfizer.sqlite3.zip)
+
 [Roche](./TrialTwin_Roche.sqlite3.zip)
+
 [Sanofi](./TrialTwin_Sanofi.sqlite3.zip)
 
 Here are [10 PDFs](./ClinicalTrials_gov_10_PDFs.zip) downloaded from ClinicalTrials.gov
@@ -60,4 +73,4 @@ And these are the pre-computed [index files](./ClinicalTrials_gov_10_PDFs__index
 
 
 
-Contact me [José C. Lacal]<Jose@Lacal.net> for any questions or suggestiosn for improvement.
+Contact me [José C. Lacal]<Jose@Lacal.net>for any questions or suggestiosn for improvement.
