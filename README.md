@@ -1,4 +1,4 @@
-# Running Trial-specific LLMs Locally
+# Running Clinical Trial-specific LLMs Locally
 
 This repository contains details, code, and sample data to help you learn how to build clinical trial-specific [Large Language Models ("LLM")](https://en.wikipedia.org/wiki/Large_language_model). 
 Then you will be able to run the LLM in your local computer.
@@ -9,25 +9,36 @@ This work is done in collaboration with [Jan Philip Göpfert](https://www.linked
 
 ## PHUSE SDE presentation, May 30 2024.
 
-"Clinical trial-specific LLM to auto-generate Protocols and SAPs." ("SAP" standa for Staatistical Analysis Plan).
+This presentation provides context to the materials in this repository.
+
+"Clinical trial-specific LLM to auto-generate Protocols and SAPs."
+("SAP" stands for Staatistical Analysis Plan).
 Here's the full [presentation file](./TrialTwin_06.pdf) for download.
 
+Summry:
 "TrialTwin is building a software platform with Natural Language Generation (“NLG”) capabilities using Natural Language Processing (“NLP”) and other software-driven linguistic processors. Our platform will programmatically extract (and encode) both meaning and context from massive amounts of Open Data into a Domain-specific Large Language Model (“LLM”). Our LLM will then be able to programmatically generate highly-realistic and domain- specific new content.
 Build your own trial-specific LLM, here are the pieces."
 
 
+## Python Code
+
+
+
+
 ## Sample Data
 
-
+You can download sample Open Data to use with the LLMs. The Open Data comes from 02 US government sources:
+* ClinicalTrials.gov
+* Food and Drug Administration
 
 ### ClinicalTrials.gov
 
-The [ClinicalTrials.gov](https://clinicaltrials.gov/) website
+The [ClinicalTrials.gov](https://clinicaltrials.gov/) website provides information about 400,000 clinical trials worldwide.
 
+These files include sample PDFs downloaded from ClinicalTrials.gov:
+* [10 actual PDFs](./ClinicalTrials_gov_10_PDFs.zip) 
+* [Pre-generated indices for those 10 PDFs](./ClinicalTrials_gov_10_PDFs__index.zip) for the 10 PDFs.
 
-The file ClinicalTrials_gov_10_PDFs.zip contains 10 PDFs downloaded from ClinicalTrials.gov
-
-And the file ClinicalTrials_gov_10_PDFs__index.zip contains the pre-generated indices for the 10 PDFs.
 
 100_CT_gov.zip
 
@@ -53,17 +64,11 @@ Download the free, multi-OS [DB Browser for SQLite](https://sqlitebrowser.org/) 
 
 
 
-Here are [10 PDFs](./ClinicalTrials_gov_10_PDFs.zip) downloaded from ClinicalTrials.gov
-
-And these are the pre-computed [index files](./ClinicalTrials_gov_10_PDFs__index.zip) for the 10 PDFs.
-
-
-
 ### Drugs@FDA
 
+The [Drugs@FDA](./https://www.fda.gov/drugs/drug-approvals-and-databases/about-drugsfda) website "..includes most of the drug products approved since 1939. The majority of patient information, labels, approval letters, reviews, and other information are available for drug products approved since 1998."
 
-[100 records](./100_Drugs_FDA.zip)
-[500 records](./500_Drugs_FDA.zip)
+Here you can download pre-generated index files for [100 records](./100_Drugs_FDA.zip) and [500 records](./500_Drugs_FDA.zip) of the Drugs@FDA dataset.
 
 
 
