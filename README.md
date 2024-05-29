@@ -37,30 +37,24 @@ Download the free, multi-OS [DB Browser for SQLite](https://sqlitebrowser.org/) 
 ![SQLite3 database file sample](./SQLite3_Database_File_Sanofi_Applications.png)
 
 
-| Sponsor     | Download SQLIte file                     |  
-| :---------- | :--------------------------------------- |
-| Abbott      | [04 MB](./TrialTwin_Abbott.sqlite3.zip)  |
-| Abbvie      | [08.2 MB](./TrialTwin_Abbvie.sqlite3.zip)
+| Sponsor              | Download SQLite3 file                                  |  
+| :------------------- | :----------------------------------------------------- |
+| Abbott               | [04 MB](./TrialTwin_Abbott.sqlite3.zip)				|
+| Abbvie               | [08.2 MB](./TrialTwin_Abbvie.sqlite3.zip)|				|
+| AstraZeneca          | [17.4 MB](./TrialTwin_AstraZeneca.sqlite3.zip)         |
+| Bayer                | [06.1 MB](./TrialTwin_Bayer.sqlite3.zip)               |
+| Bristol Myers Squibb | [16.5 MB](./TrialTwin_Bristol_Myers_Squibb.sqlite3.zip)|
+| Johnson & Johnson    | [04.2 MB](./TrialTwin_Johnson_Johnson.sqlite3.zip)     |
+| Pfizer               | [18.4 MB](./TrialTwin_Pfizer.sqlite3.zip)              |
+| Roche                | [18.3 MB](./TrialTwin_Roche.sqlite3.zip)               |
+| Sanofi               | [09.8 MB](./TrialTwin_Sanofi.sqlite3.zip)             |
 
 **Table 1:** SQLite3 files
 
 
 
-[AstraZeneca](./TrialTwin_AstraZeneca.sqlite3.zip)
-
-[Bayer](./TrialTwin_Bayer.sqlite3.zip)
-
-[Bristol_Myers_Squibb](./TrialTwin_Bristol_Myers_Squibb.sqlite3.zip)
-
-[Johnson & Johnson](./TrialTwin_Johnson_Johnson.sqlite3.zip)
-
-[Pfizer](./TrialTwin_Pfizer.sqlite3.zip)
-
-[Roche](./TrialTwin_Roche.sqlite3.zip)
-
-[Sanofi](./TrialTwin_Sanofi.sqlite3.zip)
-
 Here are [10 PDFs](./ClinicalTrials_gov_10_PDFs.zip) downloaded from ClinicalTrials.gov
+
 And these are the pre-computed [index files](./ClinicalTrials_gov_10_PDFs__index.zip) for the 10 PDFs.
 
 
@@ -73,4 +67,5 @@ And these are the pre-computed [index files](./ClinicalTrials_gov_10_PDFs__index
 
 
 
-Contact me [José C. Lacal]<Jose@Lacal.net>for any questions or suggestiosn for improvement.
+## Contact Me
+[José C. Lacal]<Jose@Lacal.net> for any questions or suggestiosn for improvement.
