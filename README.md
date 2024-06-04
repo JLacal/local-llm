@@ -51,7 +51,7 @@ These files include sample PDFs downloaded from ClinicalTrials.gov:
 * [Pre-generated indices for those 10 PDFs](./ClinicalTrials_gov_10_PDFs__index.zip) for the 10 PDFs.
 
 
-100_CT_gov.zip
+Each SQLite3 file contains details of clinical trials sponsored by each company. The files also contain the full text of individual Protocols, Statistical Analysis Plans ("SAP") and ICF ("Individual Consent Forms").
 
 Download the free, multi-OS [DB Browser for SQLite](https://sqlitebrowser.org/) to open and query SQLite3 database files.
 
