@@ -22,6 +22,8 @@ Build your own trial-specific LLM, here are the pieces."
 
 ## Python Code
 
+[Tuesday 04 June 2024]
+The Python files will be posted this week.
 
 
 
