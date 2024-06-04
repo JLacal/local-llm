@@ -1,5 +1,7 @@
 # Running Clinical Trial-specific LLMs Locally
 
+Please download this PDF file with detailed instructions to run your own LLMs locally:
+
 [Teach Yourself to Run LLMs (Large Language Models) in your local computer. Free.](./TrialTwin_Local_LLM.pdf)
 
 This repository contains details, code, and sample data to help you learn how to build clinical trial-specific [Large Language Models ("LLM")](https://en.wikipedia.org/wiki/Large_language_model). 
@@ -27,8 +29,11 @@ Build your own trial-specific LLM, here are the pieces."
 [Tuesday 04 June 2024]
 The Python files will be posted this week.
 
+Please download the PDF file at the top of this file for detailed instructions.
+
 [Tutorial_01.py](./Tutorial_01.py)
 
+[Tutorial_02.py](./Tutorial_02.py)
 
 
 ## Sample Data
