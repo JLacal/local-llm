@@ -84,7 +84,7 @@ Here you can download pre-generated index files for [100 records](./100_Drugs_FD
 
 
 ## Contact Me
-José C. Lacal <Jose@Lacal.net> for any questions or suggestiosn for improvement.
+José C. Lacal <Jose@Lacal.net> for any questions or suggestions for improvement.
 
 Connect with me and follow me in [LinkedIn](https://www.linkedin.com/in/jclacal/)
 
